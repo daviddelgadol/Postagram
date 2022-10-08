@@ -1,0 +1,6 @@
+framework module Pods_Postagram {
+  umbrella header "Pods-Postagram-umbrella.h"
+
+  export *
+  module * { export * }
+}
