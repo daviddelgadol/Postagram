@@ -8,5 +8,6 @@ target 'Postagram' do
   # Pods for Postagram
   pod 'AlamofireImage'
   pod 'Parse'	
+  pod 'MessageInputBar'
 
 end
