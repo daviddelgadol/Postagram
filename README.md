@@ -17,4 +17,6 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+![](https://i.imgur.com/aucnaBu.gif)
+
 ![](https://i.imgur.com/owknuYG.gif)
