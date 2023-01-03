@@ -1,8 +1,8 @@
-# Parstagram - Part II
+# Postagram
 
-This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+Postagram is an Instagram clone using a custom Parse backend server and database made possible by https://www.back4app.com/. The app allows a user to sign up, log in, post photos, view a global photos feed, and add comments. Upon users sign up, the database stores their login information, pictures and captions posted, as well as all the comments received in their posts. 
 
-Time spent: **15** hours spent in total
+This app does not use any API, as this project was for me to learn how to integrate a custom database designed for web and mobile applications.
 
 ## User Stories
 
@@ -16,5 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+![](https://i.imgur.com/aucnaBu.gif)
 
 ![](https://i.imgur.com/owknuYG.gif)
